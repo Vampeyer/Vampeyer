@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Vampeyer - AKA Jk thmp 
 
-i am in code louisville cohort !!!! 
+i am in code louisville spring  2022 cohort !!!! 
 
-making the push  late, I didnt see this 
 
 
 - 👀 I’m interested in ...
