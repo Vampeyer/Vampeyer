@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @Vampeyer - AKA Jk thmp 
+- 👋 Hi, I’m Jake T.  ,and this is my Vampeyer git page.
 
-i am in code louisville spring  2022 cohort !!!! 
+I am in code louisville spring  2022 cohort !!!! 
 
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... money 
+- 🌱 I’m currently learning ... blockchain development for the environment
+- 💞️ I’m looking to collaborate on ... My Enviro Securus project with an fullstack environmentalist type
+- 📫 How to reach me ... check out my page , download it , links provided!
 
 <!---
 Vampeyer/Vampeyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
