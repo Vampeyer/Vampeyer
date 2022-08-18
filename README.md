@@ -4,7 +4,7 @@ I am in code louisville spring  2022 cohort !!!!
 
 
 
-- 👀 I’m interested in ... money 
+- 👀 I’m interested in .... coding to earn cash/ teslas/ and miniature single electronic VTols. 
 - 🌱 I’m currently learning ... blockchain development for the environment
 - 💞️ I’m looking to collaborate on ... My Enviro Securus project with an fullstack environmentalist type
 - 📫 How to reach me ... check out my page , download it , links provided!
