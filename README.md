@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jake T.  ,and this is my Vampeyer git page.
 
-I am in code louisville spring  2022 cohort !!!! 
+I am now a graduate of the code louisville summer  2022 cohort !!!! 
 
 
 
