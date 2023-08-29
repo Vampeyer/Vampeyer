@@ -10,7 +10,7 @@
 
 
 
-[![Node - Developer](https://img.shields.io/static/v1?label=Node&message=Developer&color=%23000B1D&style=for-the-badge&logo=nodedotjs&logoColor=%2300A82D)](https://github.com/Vampeyer/nodejsexample)
+[![Node - Server / OS Functions / Modules](https://img.shields.io/static/v1?label=Node&message=Server+%2F+OS+Functions+%2F+Modules&color=%232ea44ff&style=for-the-badge&logo=nodedotjs&logoColor=%2376d04b)](https://github.com/Vampeyer/nodejsexample)
 
 
 [![OS Build (Electron) - Phoenix XP v.1.3.2 (Beta)](https://img.shields.io/static/v1?label=OS+Build&message=Phoenix+XP+v.1.3.2+(Beta)&color=%23000B1D&style=for-the-badge&logo=electron&logoColor=%23FFFFFF)](https://github.com/Vampeyer/winohzXp)
