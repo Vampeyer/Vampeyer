@@ -13,6 +13,7 @@
 [![Node - Server / OS Functions / Modules](https://img.shields.io/static/v1?label=Node&message=Server+%2F+OS+Functions+%2F+Modules&color=%232ea44ff&style=for-the-badge&logo=nodedotjs&logoColor=%2376d04b)](https://github.com/Vampeyer/nodejsexample)
 
 
+
 ![OS Build (Electron) - Phoenix OS v.0.2.2 - Portable ](https://img.shields.io/static/v1?label=OS+Build+(Electron)&message=Phoenix+OS+v.0.2.2+-+Portable+&color=%23E79537&style=for-the-badge&logo=electron&logoColor=%2376d04b)
 
 
@@ -33,10 +34,20 @@
 
 
 
+[![Node Red - node-RED Dashboard](https://img.shields.io/static/v1?label=Node+Red&message=node-RED+Dashboard&color=%238F0000&style=for-the-badge&logo=nodered&logoColor=%238F0000)](https://github.com/Vampeyer/Node-Red)
+
+
+[![NodeMon - nodemon](https://img.shields.io/static/v1?label=NodeMon&message=nodemon&color=%2376D04B&style=for-the-badge&logo=nodemon&logoColor=%2376D04B)](https://github.com/Vampeyer/nodejsexample)
 
 
 
-<h3 align="center">A passionate frontend developer from Kentucky</h3>
+
+
+<h1> Certificates </h1> 
+
+[![freecodecamp - CERTIFICATE](https://img.shields.io/static/v1?label=freecodecamp&message=CERTIFICATE&color=%230A84FF&style=for-the-badge&logo=freecodecamp&logoColor=%230A0A23)](https://www.freecodecamp.org/certification/fcc893aedb5-a3f9-4920-b1de-2f0f7f8f9564/responsive-web-design)
+
+<h3 align="center">A passionate Fullstack developer from Kentucky</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vampeyer&label=Profile%20views&color=0e75b6&style=flat" alt="vampeyer" /> </p>
 
@@ -52,7 +63,7 @@
 
 - 💬 Ask me about **REact , vue , vit , js , express , jupyter , sql , or anything else**
 
-- ⚡ Fun fact **I can do anything you need.**
+- ⚡ Fun fact **I can do anything you need , I am very chad**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
