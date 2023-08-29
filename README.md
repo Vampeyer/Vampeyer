@@ -47,7 +47,16 @@
 
 
 
-[![React - React-Crud v.0.2.0 - Needs server](https://img.shields.io/static/v1?label=React&message=React-Crud+v.0.2.0+-+Needs+server&color=%23F7DF1E&style=for-the-badge&logo=react&logoColor=%23F7DF1E)](https://github.com/Vampeyer/react-crud-app/blob/master/LICENSE)
+
+[![React - React-Crud v.0.2.0 - Needs server](https://img.shields.io/static/v1?label=React&message=React-Crud+v.0.2.0+-+Needs+server&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/Vampeyer/react-crud-app/blob/master/LICENSE)
+
+
+
+[![CSS3  - CSS-Clock-sin-cos v.1.2](https://img.shields.io/static/v1?label=CSS3+&message=CSS-Clock-sin-cos+v.1.2&color=%2361DAFB&style=for-the-badge&logo=css3&logoColor=%231572B6)](https://github.com/Vampeyer/CSS-Clock-sin-cos/blob/master/README.md)
+
+
+
+
 
 
 
