@@ -59,7 +59,6 @@
 
 
 
-
 <h2> MoreTechnologie  </h2>
 
 [![notepad++ - Editor](https://img.shields.io/static/v1?label=notepad%2B%2B&message=Editor&color=%2390E59A&style=for-the-badge&logo=Notepad%2B%2B&logoColor=%2390E59A)](https://notepad-plus-plus.org/)
