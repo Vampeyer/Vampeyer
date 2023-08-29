@@ -4,6 +4,9 @@
 <img src='https://i.pinimg.com/originals/8b/10/b4/8b10b43dfd4d2f5300394bfe3cd691e1.gif' > <img>
 </div>
 
+<div> 
+<img src='https://img.shields.io/badge/High%20End%20-Developer-cyan' > <img>
+</div>
 
 <h3 align="center">A passionate frontend developer from Kentucky</h3>
 
