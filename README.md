@@ -13,23 +13,23 @@
 [![Node - Server / OS Functions / Modules](https://img.shields.io/static/v1?label=Node&message=Server+%2F+OS+Functions+%2F+Modules&color=%232ea44ff&style=for-the-badge&logo=nodedotjs&logoColor=%2376d04b)](https://github.com/Vampeyer/nodejsexample)
 
 
-[![OS Build (Electron) - Phoenix XP v.1.3.2 (Beta)](https://img.shields.io/static/v1?label=OS+Build&message=Phoenix+XP+v.1.3.2+(Beta)&color=%23000B1D&style=for-the-badge&logo=electron&logoColor=%23FFFFFF)](https://github.com/Vampeyer/winohzXp)
+![OS Build (Electron) - Phoenix OS v.0.2.2 - Portable ](https://img.shields.io/static/v1?label=OS+Build+(Electron)&message=Phoenix+OS+v.0.2.2+-+Portable+&color=%23E79537&style=for-the-badge&logo=electron&logoColor=%2376d04b)
 
 
 
-[![OS Build - (Electron Builder) - Phoenix XP v.1.3.2 (Beta)](https://img.shields.io/static/v1?label=OS+Build+-+(Electron+Builder)&message=Phoenix+XP+v.1.3.2+(Beta)&color=%23000B1D&style=for-the-badge&logo=electronbuilder&logoColor=%23FFFFFF)](https://github.com/Vampeyer/winohzXp)
+![OS Build -(Electron Builder) - Phoenix OS v.0.2.2 - Portable ](https://img.shields.io/static/v1?label=OS+Build+-(Electron+Builder)&message=Phoenix+OS+v.0.2.2+-+Portable+&color=%2347848F&style=for-the-badge&logo=electron&logoColor=%2376d04b)
 
 
-[![MySQL - SQL](https://img.shields.io/static/v1?label=MySQL&message=SQL&color=%23000B1D&style=for-the-badge&logo=mysql&logoColor=%234479A1)](https://github.com/Vampeyer/SQL_Data_and_Project)
+[![MySQL - SQL](https://img.shields.io/static/v1?label=MySQL&message=SQL&color=%234479A1&style=for-the-badge&logo=mysql&logoColor=%2376d04b)](https://github.com/Vampeyer/SQL_Data_and_Project)
       
 
 
 
-[![Python - BMI Calculator](https://img.shields.io/static/v1?label=Python&message=BMI+Calculator&color=%23000B1D&style=for-the-badge&logo=python&logoColor=%233776AB)](https://github.com/Vampeyer/PythonStart/tree/master/CyberSec%20Workforce%20Cert%20Python/PYTHON-BMI_Calculator-Summative)
+[![Python - BMI Calculator](https://img.shields.io/static/v1?label=Python&message=BMI+Calculator&color=%2383B81A&style=for-the-badge&logo=Python&logoColor=%233776AB)](https://github.com/Vampeyer/PythonStart/tree/master/CyberSec%20Workforce%20Cert%20Python/PYTHON-BMI_Calculator-Summative)
 
 
 
-[![Jupyter - Jupyter Server / Lab](https://img.shields.io/static/v1?label=Jupyter&message=Jupyter+Server+%2F+Lab&color=%23000B1D&style=for-the-badge&logo=jupyter&logoColor=%23F37626)](https://github.com/Vampeyer/PythonStart/tree/master/CyberSec%20Workforce%20Cert%20Python/-%20Jupyter%20Server%20and%20Setup%20-)
+[![Jupyter - Jupyter Server / Lab](https://img.shields.io/static/v1?label=Jupyter&message=Jupyter+Server+%2F+Lab&color=%23F37626&style=for-the-badge&logo=Jupyter&logoColor=%23F37626)](https://github.com/Vampeyer/PythonStart/tree/master/CyberSec%20Workforce%20Cert%20Python/PYTHON-BMI_Calculator-Summative)
 
 
 
