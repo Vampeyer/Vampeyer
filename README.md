@@ -13,6 +13,29 @@
 [![Node - Developer](https://img.shields.io/static/v1?label=Node&message=Developer&color=%23000B1D&style=for-the-badge&logo=nodedotjs&logoColor=%2300A82D)](https://github.com/Vampeyer/nodejsexample)
 
 
+[![OS Build (Electron) - Phoenix XP v.1.3.2 (Beta)](https://img.shields.io/static/v1?label=OS+Build&message=Phoenix+XP+v.1.3.2+(Beta)&color=%23000B1D&style=for-the-badge&logo=electron&logoColor=%23FFFFFF)](https://github.com/Vampeyer/winohzXp)
+
+
+
+[![OS Build - (Electron Builder) - Phoenix XP v.1.3.2 (Beta)](https://img.shields.io/static/v1?label=OS+Build+-+(Electron+Builder)&message=Phoenix+XP+v.1.3.2+(Beta)&color=%23000B1D&style=for-the-badge&logo=electronbuilder&logoColor=%23FFFFFF)](https://github.com/Vampeyer/winohzXp)
+
+
+[![MySQL - SQL](https://img.shields.io/static/v1?label=MySQL&message=SQL&color=%23000B1D&style=for-the-badge&logo=mysql&logoColor=%234479A1)](https://github.com/Vampeyer/SQL_Data_and_Project)
+      
+
+
+
+[![Python - BMI Calculator](https://img.shields.io/static/v1?label=Python&message=BMI+Calculator&color=%23000B1D&style=for-the-badge&logo=python&logoColor=%233776AB)](https://github.com/Vampeyer/PythonStart/tree/master/CyberSec%20Workforce%20Cert%20Python/PYTHON-BMI_Calculator-Summative)
+
+
+
+[![Jupyter - Jupyter Server / Lab](https://img.shields.io/static/v1?label=Jupyter&message=Jupyter+Server+%2F+Lab&color=%23000B1D&style=for-the-badge&logo=jupyter&logoColor=%23F37626)](https://github.com/Vampeyer/PythonStart/tree/master/CyberSec%20Workforce%20Cert%20Python/-%20Jupyter%20Server%20and%20Setup%20-)
+
+
+
+
+
+
 <h3 align="center">A passionate frontend developer from Kentucky</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vampeyer&label=Profile%20views&color=0e75b6&style=flat" alt="vampeyer" /> </p>
