@@ -8,7 +8,7 @@
 <img src='https://img.shields.io/badge/High%20End%20-Developer-cyan' > <img>
 </div>
 
-
+<h1>Technologies </h1>
 
 [![Node - Server / OS Functions / Modules](https://img.shields.io/static/v1?label=Node&message=Server+%2F+OS+Functions+%2F+Modules&color=%232ea44ff&style=for-the-badge&logo=nodedotjs&logoColor=%2376d04b)](https://github.com/Vampeyer/nodejsexample)
 
@@ -41,7 +41,19 @@
 
 
 
+[![JavaScript - Streampal v.2.1.1](https://img.shields.io/static/v1?label=JavaScript&message=Streampal+v.2.1.1&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Vampeyer/Vampeyer.github.io)
 
+[![JavaScript - Async-Sample](https://img.shields.io/static/v1?label=JavaScript&message=Async-Sample&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Vampeyer/async-programming-promises)
+
+
+
+[![React - React-Crud v.0.2.0 - Needs server](https://img.shields.io/static/v1?label=React&message=React-Crud+v.0.2.0+-+Needs+server&color=%23F7DF1E&style=for-the-badge&logo=react&logoColor=%23F7DF1E)](https://github.com/Vampeyer/react-crud-app/blob/master/LICENSE)
+
+
+
+<h2> MoreTechnologie  </h2>
+
+[![notepad++ - Editor](https://img.shields.io/static/v1?label=notepad%2B%2B&message=Editor&color=%2390E59A&style=for-the-badge&logo=Notepad%2B%2B&logoColor=%2390E59A)](https://notepad-plus-plus.org/)
 
 <h1> Certificates </h1> 
 
