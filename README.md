@@ -10,15 +10,12 @@
 
 <h1>Technologies </h1>
 
-[![Node - Server / OS Functions / Modules](https://img.shields.io/static/v1?label=Node&message=Server+%2F+OS+Functions+%2F+Modules&color=%232ea44ff&style=for-the-badge&logo=nodedotjs&logoColor=%2376d04b)](https://github.com/Vampeyer/nodejsexample)
+<a href="https://github.com/Vampeyer/nodejsexample"><img src="https://img.shields.io/static/v1?label=Node&message=Server+%2F+Modules+%2F+OS+&color=1ea46a&style=for-the-badge&logo=nodedotjs&logoColor=339930" alt="Node - Server / Modules / OS "></a>
+
+<a href="https://github.com/Vampeyer/winohzXp.git"><img src="https://img.shields.io/static/v1?label=OS+Build+(Electron)&message=Phoenix+OS+v.0.2.2+-+Portable&color=%2347848F&style=for-the-badge&logo=Electron&logoColor=%23efefff" alt="OS Build (Electron) - Phoenix OS v.0.2.2 - Portable"></a>
 
 
-
-![OS Build (Electron) - Phoenix OS v.0.2.2 - Portable ](https://img.shields.io/static/v1?label=OS+Build+(Electron)&message=Phoenix+OS+v.0.2.2+-+Portable+&color=%23E79537&style=for-the-badge&logo=electron&logoColor=%2376d04b)
-
-
-
-![OS Build -(Electron Builder) - Phoenix OS v.0.2.2 - Portable ](https://img.shields.io/static/v1?label=OS+Build+-(Electron+Builder)&message=Phoenix+OS+v.0.2.2+-+Portable+&color=%2347848F&style=for-the-badge&logo=electron&logoColor=%2376d04b)
+[![OS Build (Electron Builder) - Phoenix OS v.0.2.2 - Portable](https://img.shields.io/static/v1?label=OS+Build+(Electron+Builder)&message=Phoenix+OS+v.0.2.2+-+Portable&color=%2347848F&style=for-the-badge&logo=electron-builder&logoColor=%23efefff)](https://github.com/Vampeyer/winohzXp.git)
 
 
 [![MySQL - SQL](https://img.shields.io/static/v1?label=MySQL&message=SQL&color=%234479A1&style=for-the-badge&logo=mysql&logoColor=%2376d04b)](https://github.com/Vampeyer/SQL_Data_and_Project)
