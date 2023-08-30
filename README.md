@@ -37,7 +37,14 @@
 <img src="https://github.com/Vampeyer/Vampeyer/blob/main/codeloucertwebdev1.jpg" style=" width:30% " >  </a>
 
 
+<a  href= "https://catalog.louisville.edu/graduate/programs-study/graduate-certificate-six-sigma-black-belt/" >
+<img src="LSSCcert-FINAL.jpg" style=" width:30% " >  </a>
 
+
+
+
+<a  href= "https://www.credly.com/earner/earned/share/6ca3c2e9-9072-4658-885c-0025cc4f1876" >
+<img src="enterprise-design-thinking-practitioner%20(1).png" style=" width:30% " >  </a>
 
 
 
