@@ -7,15 +7,18 @@
 
 
 
+<a href="https://www.coursera.org/account/accomplishments/verify/B68LAQ375BAZ"  > 
+<img src="Certificate%20-%20Meta%20-%20Introduction%20to%20back%20end%20development%20%20Coursera%20B68LAQ375BAZ.jpg"  style=" width:30% " > </a> 
 
-<img src="Certificate%20-%20Meta%20-%20Introduction%20to%20back%20end%20development%20%20Coursera%20B68LAQ375BAZ.jpg" href="https://www.coursera.org/account/accomplishments/verify/B68LAQ375BAZ" style=" width:30% " > 
- 
-<img src="freecc-responsive-web-dev-cert.jpg" href= "https://img.shields.io/static/v1?label=freecodecamp&message=CERTIFICATE&color=%230A84FF&style=for-the-badge&logo=freecodecamp&logoColor=%230A0A23)](https://www.freecodecamp.org/certification/fcc893aedb5-a3f9-4920-b1de-2f0f7f8f9564/responsive-web-design" style=" width:30% " > 
+ <a  href= "https://img.shields.io/static/v1?label=freecodecamp&message=CERTIFICATE&color=%230A84FF&style=for-the-badge&logo=freecodecamp&logoColor=%230A0A23)](https://www.freecodecamp.org/certification/fcc893aedb5-a3f9-4920-b1de-2f0f7f8f9564/responsive-web-design" > 
+<img src="freecc-responsive-web-dev-cert.jpg" style=" width:30% " >  </a>
 
-<img src="Coursera%20linux%20CLI%20basics%20certification.jpg" href= "https://www.coursera.org/account/accomplishments/verify/GP6368T5WG3S" style=" width:30% " >
+<a href= "https://www.coursera.org/account/accomplishments/verify/GP6368T5WG3S" > 
+<img src="Coursera%20linux%20CLI%20basics%20certification.jpg"  style=" width:30% " > </a>
 
 
-<img src="courseraGoogleItProCert.jpg" href= "https://www.coursera.org/account/accomplishments/professional-cert/9R2LRG9PBGFT" style=" width:30% " >
+<a  href= "https://www.coursera.org/account/accomplishments/professional-cert/9R2LRG9PBGFT" >
+<img src="courseraGoogleItProCert.jpg" style=" width:30% " >  </a>
 
 
 
