@@ -1,5 +1,26 @@
 <h1 align="center">Hi 👋, I'm Vampeyer</h1>
 
+
+
+
+<h1> Certificates </h1> 
+
+
+
+
+<img src="Certificate%20-%20Meta%20-%20Introduction%20to%20back%20end%20development%20%20Coursera%20B68LAQ375BAZ.jpg" href="https://www.coursera.org/account/accomplishments/verify/B68LAQ375BAZ" style=" width:30% " > 
+ 
+<img src="freecc-responsive-web-dev-cert.jpg" href= "https://img.shields.io/static/v1?label=freecodecamp&message=CERTIFICATE&color=%230A84FF&style=for-the-badge&logo=freecodecamp&logoColor=%230A0A23)](https://www.freecodecamp.org/certification/fcc893aedb5-a3f9-4920-b1de-2f0f7f8f9564/responsive-web-design" style=" width:30% " > 
+
+<img src="Coursera%20linux%20CLI%20basics%20certification.jpg" href= "https://www.coursera.org/account/accomplishments/verify/GP6368T5WG3S" style=" width:30% " >
+
+
+<img src="courseraGoogleItProCert.jpg" href= "https://www.coursera.org/account/accomplishments/professional-cert/9R2LRG9PBGFT" style=" width:30% " >
+
+
+
+
+
 <div> 
 <img src='https://i.pinimg.com/originals/8b/10/b4/8b10b43dfd4d2f5300394bfe3cd691e1.gif' > <img>
 </div>
@@ -60,9 +81,10 @@
 
 [![notepad++ - Editor](https://img.shields.io/static/v1?label=notepad%2B%2B&message=Editor&color=%2390E59A&style=for-the-badge&logo=Notepad%2B%2B&logoColor=%2390E59A)](https://notepad-plus-plus.org/)
 
-<h1> Certificates </h1> 
 
-[![freecodecamp - CERTIFICATE](https://img.shields.io/static/v1?label=freecodecamp&message=CERTIFICATE&color=%230A84FF&style=for-the-badge&logo=freecodecamp&logoColor=%230A0A23)](https://www.freecodecamp.org/certification/fcc893aedb5-a3f9-4920-b1de-2f0f7f8f9564/responsive-web-design)
+
+
+
 
 <h3 align="center">A passionate Fullstack developer from Kentucky</h3>
 
