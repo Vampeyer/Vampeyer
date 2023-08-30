@@ -10,7 +10,7 @@
 <a href="https://www.coursera.org/account/accomplishments/verify/B68LAQ375BAZ"  > 
 <img src="Certificate%20-%20Meta%20-%20Introduction%20to%20back%20end%20development%20%20Coursera%20B68LAQ375BAZ.jpg"  style=" width:30% " > </a> 
 
- <a  href= "https://img.shields.io/static/v1?label=freecodecamp&message=CERTIFICATE&color=%230A84FF&style=for-the-badge&logo=freecodecamp&logoColor=%230A0A23)](https://www.freecodecamp.org/certification/fcc893aedb5-a3f9-4920-b1de-2f0f7f8f9564/responsive-web-design" > 
+ <a  href= "https://www.freecodecamp.org/certification/fcc893aedb5-a3f9-4920-b1de-2f0f7f8f9564/responsive-web-design" > 
 <img src="freecc-responsive-web-dev-cert.jpg" style=" width:30% " >  </a>
 
 <a href= "https://www.coursera.org/account/accomplishments/verify/GP6368T5WG3S" > 
@@ -19,6 +19,17 @@
 
 <a  href= "https://www.coursera.org/account/accomplishments/professional-cert/9R2LRG9PBGFT" >
 <img src="courseraGoogleItProCert.jpg" style=" width:30% " >  </a>
+
+
+<a  href= "https://www.credly.com/earner/earned/badge/db4a28d1-6231-45e2-84f3-edef05d449d8" >
+<img src="Cybersecurity_Workforce_Program_Badge___Professional_Level_Badge20230830.jpg" style=" width:30% " >  </a>
+
+
+<a  href= "https://www.credly.com/earner/earned/share/6ca3c2e9-9072-4658-885c-0025cc4f1876" >
+<img src="Enterprise_Design_Thinking_Practitioner_Badge20230826-28-2g8xu1.jpg" style=" width:30% " >  </a>
+
+
+
 
 
 
