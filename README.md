@@ -28,6 +28,20 @@
 <a  href= "https://www.credly.com/earner/earned/share/6ca3c2e9-9072-4658-885c-0025cc4f1876" >
 <img src="Enterprise_Design_Thinking_Practitioner_Badge20230826-28-2g8xu1.jpg" style=" width:30% " >  </a>
 
+<a  href= "https://beinternetawesome.withgoogle.com/en_us/interland" >
+<img src="Google_Interland_Jacob%20R%20Thompson_Certificate_of_Awesomeness.jpg" style=" width:30% " >  </a>
+
+
+
+<a  href= "https://codelouisville.org/" >
+<img src="https://github.com/Vampeyer/Vampeyer/blob/main/codeloucertwebdev1.jpg" style=" width:30% " >  </a>
+
+
+
+
+
+
+
 
 
 
