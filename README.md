@@ -2,6 +2,339 @@
 <h6> Please allow the entire page to load to view entire contents </h6>
 
 
+<!-- BADGES START -->
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+   <title>My Web Project</title>
+   <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+
+
+
+<style> 
+  body { 
+   background-color: #F0F0F0; 
+} 
+
+
+a { max-width: 5em; }  /*   Image SiZing */
+
+.thinBorder { 
+   border: 1px solid grey;
+   border-radius: 3%; 
+   margin: .5rem; 
+   text-align: center;
+    }
+
+
+span {
+  data-view-component: true;
+  class: "Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2";
+  flex: 1;
+  width: 33%;
+
+}
+
+
+.Label {
+   color: black;
+   font-size: 16px;
+   border-radius: 2em;
+ }
+ 
+ .achievement-tier-label {
+   background-color: gold;
+ }
+ 
+ .achievement-tier-label--gold {
+   color: black;
+ }
+ 
+ .text-small {
+   font-size: 12px;
+ }
+ 
+ .text-bold {
+   font-weight: bold;
+ }
+ 
+ .color-shadow-medium {
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+ }
+ 
+ .py-0 {
+   padding-top: 0;
+ }
+ 
+ .px-2 {
+   padding-right: 4px;
+   padding-left: 4px;
+ }
+ 
+ .ml-2 {
+   margin-left: 2px;
+ }
+
+
+ .achievement-card:hover {
+   /* box-shadow: var(--color-shadow-large); */
+}
+
+.btn:hover, .btn.hover, [open]>.btn {
+   background-color: var(--button-default-bgColor-hover, var(--color-btn-hover-bg));
+   border-color: var(--button-default-borderColor-hover, var(--color-btn-hover-border));
+   transition-duration: .1s;
+   size: 200%;
+}
+.btn:hover {
+   text-decoration: none;
+}
+
+.p-3 {
+   padding: var(--base-size-16, 16px) !important;
+}
+.height-full {
+   height: 100% !important;
+}
+.position-relative {
+   position: relative !important;
+}
+.flex-items-center {
+   align-items: center !important;
+}
+.color-border-subtle {
+   border-color: var(--borderColor-muted, var(--color-border-subtle)) !important;
+}
+.color-bg-default {
+   background-color: var(--bgColor-default, var(--color-canvas-default)) !important;
+}
+.rounded-2 {
+   border-radius: var(--borderRadius-medium, 6px) !important;
+}
+.border {
+   border: var(--borderWidth-thin, 1px) solid var(--borderColor-default, var(--color-border-default)) !important;
+}
+.btn-block {
+   display: block;
+   width: 200%;
+   text-align: center;
+}
+
+ </style>
+
+
+
+<div style="font-size: 24px;
+              display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  padding:2rem; 
+
+ ">
+
+
+
+
+
+
+
+  <div class="thinBorder"> 
+         <a   
+            style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+         href="">
+            <img  src="heart-on-your-sleeve-default.png" alt="">
+         
+  <p>on sleeve   <span data-view-component="true"
+          class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+            x4</span></p> 
+         </a>
+         </div>
+
+
+
+
+
+
+  <div class="thinBorder"> 
+            <a   
+               style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+            href="">
+               <img  src="open-sourcerer-default.png" alt="">
+            
+   <p>on sleeve   <span data-view-component="true"
+             class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+               x4</span></p> 
+            </a>
+            </div>
+      
+
+
+  <div class="thinBorder"> 
+               <a   
+                  style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+               href="">
+                  <img  src="pair-extraordinaire-default.png" alt="">
+               
+   <p>on sleeve   <span data-view-component="true"
+                class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+                  x4</span></p> 
+               </a>
+               </div>
+
+
+
+   <div class="thinBorder"> 
+               <a   
+                  style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+               href="">
+                  <img  src="quickdraw-default.png" alt="">
+               
+   <p>on sleeve   <span data-view-component="true"
+                class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+                  x4</span></p> 
+               </a>
+               </div>
+    <div class="thinBorder"> 
+                  <a   
+                     style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+                  href="">
+                     <img  src="quickdraw-default.png" alt="">
+                  
+   <p>on sleeve   <span data-view-component="true"
+                   class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+                     x4</span></p> 
+                  </a>
+                  </div>
+
+
+   <div class="thinBorder"> 
+                     <a   
+                        style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+                     href="">
+                        <img  src="starstruck-default.png" alt="">
+                     
+   <p>on sleeve   <span data-view-component="true"
+                      class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+                        x4</span></p> 
+                     </a>
+                     </div>
+
+
+
+
+
+
+  <div class="thinBorder"> 
+                        <a   
+                           style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+                        href="">
+                           <img  src="galaxy-brain-default.png" alt="">
+                        
+  <p>on sleeve   <span data-view-component="true"
+                         class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+                           x4</span></p> 
+                        </a>
+                        </div>
+
+
+<div class="thinBorder"> 
+                           <a   
+                              style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+                           href="">
+                              <img  src="mars-2020-contributor-default.png" alt="">
+                           
+ <p>on sleeve   <span data-view-component="true"
+                            class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+                              x4</span></p> 
+                           </a>
+                           </div>
+
+
+
+
+
+
+  <div class="thinBorder"> 
+                              <a   
+                                 style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+                              href="">
+                                 <img  src="public-sponsor-default.png" alt="">
+                              
+  <p>on sleeve   <span data-view-component="true"
+                               class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+                                 x4</span></p> 
+                              </a>
+                              </div>
+
+
+
+
+
+
+
+
+
+                        
+
+  <div class="thinBorder"> 
+                              <a   
+                                 style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+                              href="">
+                                 <img  src="pull-shark-default.png" alt="">
+                              
+   <p>on sleeve   <span data-view-component="true"
+                               class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+                                 x4</span></p> 
+                              </a>
+                              </div>
+
+
+
+
+
+
+   
+
+
+
+ 
+
+
+
+</div>
+
+
+
+
+<script src="script.js"></script>
+</body>
+
+</html>
+
+
+
+             
+<!-- BADGES END -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div> 
 <img src='https://i.pinimg.com/originals/8b/10/b4/8b10b43dfd4d2f5300394bfe3cd691e1.gif' > <img>
 </div>
