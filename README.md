@@ -2,194 +2,24 @@
 <h6> Please allow the entire page to load to view entire contents </h6>
 
 
-<!-- BADGES START -->
 
+<h3 align="center">A passionate Fullstack developer from Kentucky</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vampeyer&label=Profile%20views&color=0e75b6&style=flat" alt="vampeyer" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vampeyer" alt="vampeyer" /></a> </p>
 
+- 🔭 I’m currently working on **Phoenix XP Portable OS**
 
-<link src="index.css" >
+- 🌱 I’m currently learning **Java**
 
-<div> Badges  </div>
+- 👯 I’m looking to collaborate on **Environmental / Corporate ptojects**
 
-  <div class="thinBorder"> 
-         <a   
-            style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-         href="https://github.com/github-profile-achievements/english">
-            <img  src="heart-on-your-sleeve-default.png" alt="">
-         
-  <p>on sleeve   <span data-view-component="true"
-          class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
-            x4</span></p> 
-         </a>
-         </div>
+- 🤝 I’m looking for help with **Docker**
 
+- 💬 Ask me about **REact , vue , vit , js , express , jupyter , sql , or anything else**
 
-
-
-
-
-  <div class="thinBorder"> 
-            <a   
-               style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-            href="https://github.com/github-profile-achievements/english">
-               <img  src="open-sourcerer-default.png" alt="">
-            
-   <p>on sleeve   <span data-view-component="true"
-             class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
-               x4</span></p> 
-            </a>
-            </div>
-      
-
-
-  <div class="thinBorder"> 
-               <a   
-                  style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-               href="https://github.com/github-profile-achievements/english">
-                  <img  src="pair-extraordinaire-default.png" alt="">
-               
-   <p>on sleeve   <span data-view-component="true"
-                class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
-                  x4</span></p> 
-               </a>
-               </div>
-
-
-
-   <div class="thinBorder"> 
-               <a   
-                  style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-               href="https://github.com/github-profile-achievements/english">
-                  <img  src="quickdraw-default.png" alt="">
-               
-   <p>on sleeve   <span data-view-component="true"
-                class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
-                  x4</span></p> 
-               </a>
-               </div>
-    <div class="thinBorder"> 
-                  <a   
-                     style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-                  href="https://github.com/github-profile-achievements/english">
-                     <img  src="quickdraw-default.png" alt="">
-                  
-   <p>on sleeve   <span data-view-component="true"
-                   class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
-                     x4</span></p> 
-                  </a>
-                  </div>
-
-
-   <div class="thinBorder"> 
-                     <a   
-                        style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-                     href="https://github.com/github-profile-achievements/english">
-                        <img  src="starstruck-default.png" alt="">
-                     
-   <p>on sleeve   <span data-view-component="true"
-                      class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
-                        x4</span></p> 
-                     </a>
-                     </div>
-
-
-
-
-
-
-  <div class="thinBorder"> 
-                        <a   
-                           style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-                        href="https://github.com/github-profile-achievements/english">
-                           <img  src="galaxy-brain-default.png" alt="">
-                        
-  <p>on sleeve   <span data-view-component="true"
-                         class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
-                           x4</span></p> 
-                        </a>
-                        </div>
-
-
-<div class="thinBorder"> 
-                           <a   
-                              style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-                           href="https://github.com/github-profile-achievements/english">
-                              <img  src="mars-2020-contributor-default.png" alt="">
-                           
- <p>on sleeve   <span data-view-component="true"
-                            class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
-                              x4</span></p> 
-                           </a>
-                           </div>
-
-
-
-
-
-
-  <div class="thinBorder"> 
-                              <a   
-                                 style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-                              href="https://github.com/github-profile-achievements/english">
-                                 <img  src="public-sponsor-default.png" alt="">
-                              
-  <p>on sleeve   <span data-view-component="true"
-                               class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
-                                 x4</span></p> 
-                              </a>
-                              </div>
-
-
-
-
-
-
-
-
-
-                        
-
-  <div class="thinBorder"> 
-                              <a   
-                                 style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-                              href="">
-                                 <img  src="pull-shark-default.png" alt="">
-                              
-   <p>on sleeve   <span data-view-component="true"
-                               class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
-                                 x4</span></p> 
-                              </a>
-                              </div>
-
-
-
-
-
-
-   
-
-
-
- 
-
-
-
-</div>
-
-
-
-
-
-</body>
-
-</html>
-
-
-
-             
-<!-- BADGES END -->
-
+- ⚡ Fun fact **I can do anything you need , I am very chad**
 
 
 
@@ -253,6 +83,188 @@
 
 
 <div style="display:flex; justify-content: space-around;  "> 
+
+
+<!-- BADGES START -->
+
+
+
+
+
+
+<div>
+  <h4>  Achievements  </h4>
+ </div>
+
+  <div class="thinBorder"> 
+         <a   
+            style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+         href="https://github.com/github-profile-achievements/english">
+            <img  src="heart-on-your-sleeve-default.png" alt="">
+         
+  <p> Heart on your Sleeve <span data-view-component="true"
+          class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+            x2</span></p> 
+         </a>
+         </div>
+
+
+
+
+
+
+  <div class="thinBorder"> 
+            <a   
+               style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+            href="https://github.com/github-profile-achievements/english">
+               <img  src="open-sourcerer-default.png" alt="">
+            
+   <p>Open Sourcerer  <span data-view-component="true"
+             class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+               x3</span></p> 
+            </a>
+            </div>
+      
+
+
+  <div class="thinBorder"> 
+               <a   
+                  style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+               href="https://github.com/github-profile-achievements/english">
+                  <img  src="pair-extraordinaire-default.png" alt="">
+               
+   <p> Pair Extraordinaire  <span data-view-component="true"
+                class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+                  x 2</span></p> 
+               </a>
+               </div>
+
+
+
+   <div class="thinBorder"> 
+               <a   
+                  style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+               href="https://github.com/github-profile-achievements/english">
+                  <img  src="quickdraw-default.png" alt="">
+               
+   <p> Quick Draw  x3 </p> <span data-view-component="true"
+                class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+                  </span></p> 
+               </a>
+               </div>
+    <div class="thinBorder"> 
+                  <a   
+                     style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+                  href="https://github.com/github-profile-achievements/english">
+                     <img  src="https://github.com/Vampeyer/Vampeyer/blob/main/arctic-code-vault-contributor-default%20(1).png" alt="">
+                  
+   <p> Arctic Code Vault Contributor <span data-view-component="true"
+                   class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+                     </span></p> 
+                  </a>
+                  </div>
+
+
+   <div class="thinBorder"> 
+                     <a   
+                        style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+                     href="https://github.com/github-profile-achievements/english">
+                        <img  src="starstruck-default.png" alt="">
+                     
+   <p>Starstruck   <span data-view-component="true"
+                      class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+                        </span></p> 
+                     </a>
+                     </div>
+
+
+
+
+
+
+  <div class="thinBorder"> 
+                        <a   
+                           style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+                        href="https://github.com/github-profile-achievements/english">
+                           <img  src="galaxy-brain-default.png" alt="">
+                        
+  <p> Galaxy Brain   <span data-view-component="true"
+                         class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+                           </span></p> 
+                        </a>
+                        </div>
+
+
+<div class="thinBorder"> 
+                           <a   
+                              style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+                           href="https://github.com/github-profile-achievements/english">
+                              <img  src="mars-2020-contributor-default.png" alt="">
+                           
+ <p> Mars 2020 Contributor  <span data-view-component="true"
+                            class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+                              x2</span></p> 
+                           </a>
+                           </div>
+
+
+
+
+
+
+  <div class="thinBorder"> 
+                              <a   
+                                 style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+                              href="https://github.com/github-profile-achievements/english">
+                                 <img  src="public-sponsor-default.png" alt="">
+                              
+  <p>Public Sponsor  <span data-view-component="true"
+                               class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+                                 </span></p> 
+                              </a>
+                              </div>
+
+
+
+
+
+
+
+
+
+                        
+
+  <div class="thinBorder"> 
+                              <a   
+                                 style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
+                              href="">
+                                 <img  src="pull-shark-default.png" alt="">
+                              
+   <p>Pull Shark   <span data-view-component="true"
+                               class="Label achievement-tier-label achievement-tier-label--gold text-small text-bold color-shadow-medium py-0 px-2 ml-2">
+                                 x4</span></p> 
+                              </a>
+                              </div>
+
+
+
+
+
+
+   
+
+
+
+ 
+
+
+
+</div>
+</body>
+</html> 
+<!-- BADGES END -->
+
+
 
 <h1>Badges  </h1>
 
@@ -352,23 +364,7 @@
 
 
 
-<h3 align="center">A passionate Fullstack developer from Kentucky</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vampeyer&label=Profile%20views&color=0e75b6&style=flat" alt="vampeyer" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vampeyer" alt="vampeyer" /></a> </p>
-
-- 🔭 I’m currently working on **Phoenix XP Portable OS**
-
-- 🌱 I’m currently learning **Java**
-
-- 👯 I’m looking to collaborate on **Environmental / Corporate ptojects**
-
-- 🤝 I’m looking for help with **Docker**
-
-- 💬 Ask me about **REact , vue , vit , js , express , jupyter , sql , or anything else**
-
-- ⚡ Fun fact **I can do anything you need , I am very chad**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
