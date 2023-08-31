@@ -12,9 +12,24 @@
 <h1> Certificates </h1> 
 
 
+<a  href= "https://www.credly.com/earner/earned/badge/db4a28d1-6231-45e2-84f3-edef05d449d8" >
+<img src="Cybersecurity_Workforce_Program_Badge___Professional_Level_Badge20230830.jpg" style=" width:30% " >  </a>
+
+<a  href= "https://www.coursera.org/account/accomplishments/professional-cert/9R2LRG9PBGFT" >
+<img src="courseraGoogleItProCert.jpg" style=" width:30% " >  </a>
+
+
+
+<a  href= "https://www.credly.com/earner/earned/share/6ca3c2e9-9072-4658-885c-0025cc4f1876" >
+<img src="Enterprise_Design_Thinking_Practitioner_Badge20230826-28-2g8xu1.jpg" style=" width:30% " >  </a>
+
 
 <a href="https://www.coursera.org/account/accomplishments/verify/B68LAQ375BAZ"  > 
 <img src="Certificate%20-%20Meta%20-%20Introduction%20to%20back%20end%20development%20%20Coursera%20B68LAQ375BAZ.jpg"  style=" width:30% " > </a> 
+
+
+<a  href= "https://codelouisville.org/" >
+<img src="https://github.com/Vampeyer/Vampeyer/blob/main/codeloucertwebdev1.jpg" style=" width:30% " >  </a>
 
  <a  href= "https://www.freecodecamp.org/certification/fcc893aedb5-a3f9-4920-b1de-2f0f7f8f9564/responsive-web-design" > 
 <img src="freecc-responsive-web-dev-cert.jpg" style=" width:30% " >  </a>
@@ -22,38 +37,25 @@
 <a href= "https://www.coursera.org/account/accomplishments/verify/GP6368T5WG3S" > 
 <img src="Coursera%20linux%20CLI%20basics%20certification.jpg"  style=" width:30% " > </a>
 
-
-<a  href= "https://www.coursera.org/account/accomplishments/professional-cert/9R2LRG9PBGFT" >
-<img src="courseraGoogleItProCert.jpg" style=" width:30% " >  </a>
-
-
-<a  href= "https://www.credly.com/earner/earned/badge/db4a28d1-6231-45e2-84f3-edef05d449d8" >
-<img src="Cybersecurity_Workforce_Program_Badge___Professional_Level_Badge20230830.jpg" style=" width:30% " >  </a>
+<a  href= "https://catalog.louisville.edu/graduate/programs-study/graduate-certificate-six-sigma-black-belt/" >
+<img src="LSSCcert-FINAL.jpg" style=" width:30% " >  </a>
 
 
-<a  href= "https://www.credly.com/earner/earned/share/6ca3c2e9-9072-4658-885c-0025cc4f1876" >
-<img src="Enterprise_Design_Thinking_Practitioner_Badge20230826-28-2g8xu1.jpg" style=" width:30% " >  </a>
+
 
 <a  href= "https://beinternetawesome.withgoogle.com/en_us/interland" >
 <img src="Google_Interland_Jacob%20R%20Thompson_Certificate_of_Awesomeness.jpg" style=" width:30% " >  </a>
 
 
 
-<a  href= "https://codelouisville.org/" >
-<img src="https://github.com/Vampeyer/Vampeyer/blob/main/codeloucertwebdev1.jpg" style=" width:30% " >  </a>
-
-
-<a  href= "https://catalog.louisville.edu/graduate/programs-study/graduate-certificate-six-sigma-black-belt/" >
-<img src="LSSCcert-FINAL.jpg" style=" width:30% " >  </a>
 
 
 
 <h1>Badges  </h1>
 
-<a  href= "https://www.credly.com/earner/earned/share/6ca3c2e9-9072-4658-885c-0025cc4f1876" >
-<img src="enterprise-design-thinking-practitioner%20(1).png" style=" width:30% " >  </a>
 
 
+<h5> UofL / NSA -  Cybersecurityworkforce Professional Certificate </h5>
 
 
 <a  href= "https://www.credly.com/earner/earned/badge/db4a28d1-6231-45e2-84f3-edef05d449d8" >
@@ -61,19 +63,22 @@
 
 
 
+ <h5> IBM Enterprise Design Thinking Practitioner </h5>
+<a  href= "https://www.credly.com/earner/earned/share/6ca3c2e9-9072-4658-885c-0025cc4f1876" >
+<img src="enterprise-design-thinking-practitioner%20(1).png" style=" width:30% " >  </a>
+
+
+<h5> Google I.T> Support Certificate </h5>
 
 
 <a  href= "https://www.credly.com/badges/3ae90b66-1603-401d-9204-8a22c6898473" >
 <img src="google-it-support-certificate.png" style=" width:30% " >  </a>
 
 
-
+ <h5> - 10  Badges at Microsoft , with a power level +9000  </h5> 
 
 <a  href= "https://learn.microsoft.com/en-us/users/jhayket-4179/" >
 <img src="cmu-disaster-recovery-backup%20(1).svg" style=" width:30% " >  </a>
-
-
-
 
 
 
