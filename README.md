@@ -47,6 +47,14 @@
 <img src="enterprise-design-thinking-practitioner%20(1).png" style=" width:30% " >  </a>
 
 
+<a  href= "https://www.credly.com/earner/earned/share/6ca3c2e9-9072-4658-885c-0025cc4f1876" >
+<img src="enterprise-design-thinking-practitioner%20(1).png" style=" width:30% " >  </a>
+
+
+
+<a  href= "https://www.credly.com/earner/earned/badge/db4a28d1-6231-45e2-84f3-edef05d449d8" >
+<img src="UofL%20CyberSecurity%20Workforce%20Badge.png" style=" width:30% " >  </a>
+
 
 
 
