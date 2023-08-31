@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vampeyer , How are you today ?   -   </h1>
+<h6> Please allow the entire page to load to view entire contents </h6>
+
 
 <div> 
 <img src='https://i.pinimg.com/originals/8b/10/b4/8b10b43dfd4d2f5300394bfe3cd691e1.gif' > <img>
