@@ -8,14 +8,14 @@
 
 
 
+<link src="index.css" >
 
-
-
+<div> Badges  </div>
 
   <div class="thinBorder"> 
          <a   
             style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-         href="">
+         href="https://github.com/github-profile-achievements/english">
             <img  src="heart-on-your-sleeve-default.png" alt="">
          
   <p>on sleeve   <span data-view-component="true"
@@ -32,7 +32,7 @@
   <div class="thinBorder"> 
             <a   
                style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-            href="">
+            href="https://github.com/github-profile-achievements/english">
                <img  src="open-sourcerer-default.png" alt="">
             
    <p>on sleeve   <span data-view-component="true"
@@ -46,7 +46,7 @@
   <div class="thinBorder"> 
                <a   
                   style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-               href="">
+               href="https://github.com/github-profile-achievements/english">
                   <img  src="pair-extraordinaire-default.png" alt="">
                
    <p>on sleeve   <span data-view-component="true"
@@ -60,7 +60,7 @@
    <div class="thinBorder"> 
                <a   
                   style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-               href="">
+               href="https://github.com/github-profile-achievements/english">
                   <img  src="quickdraw-default.png" alt="">
                
    <p>on sleeve   <span data-view-component="true"
@@ -71,7 +71,7 @@
     <div class="thinBorder"> 
                   <a   
                      style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-                  href="">
+                  href="https://github.com/github-profile-achievements/english">
                      <img  src="quickdraw-default.png" alt="">
                   
    <p>on sleeve   <span data-view-component="true"
@@ -84,7 +84,7 @@
    <div class="thinBorder"> 
                      <a   
                         style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-                     href="">
+                     href="https://github.com/github-profile-achievements/english">
                         <img  src="starstruck-default.png" alt="">
                      
    <p>on sleeve   <span data-view-component="true"
@@ -101,7 +101,7 @@
   <div class="thinBorder"> 
                         <a   
                            style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-                        href="">
+                        href="https://github.com/github-profile-achievements/english">
                            <img  src="galaxy-brain-default.png" alt="">
                         
   <p>on sleeve   <span data-view-component="true"
@@ -114,7 +114,7 @@
 <div class="thinBorder"> 
                            <a   
                               style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-                           href="">
+                           href="https://github.com/github-profile-achievements/english">
                               <img  src="mars-2020-contributor-default.png" alt="">
                            
  <p>on sleeve   <span data-view-component="true"
@@ -131,7 +131,7 @@
   <div class="thinBorder"> 
                               <a   
                                  style=" text-decoration: none; color: black; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; "
-                              href="">
+                              href="https://github.com/github-profile-achievements/english">
                                  <img  src="public-sponsor-default.png" alt="">
                               
   <p>on sleeve   <span data-view-component="true"
