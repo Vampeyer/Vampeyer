@@ -32,7 +32,7 @@
 <img src="https://github.com/Vampeyer/Vampeyer/blob/main/codeloucertwebdev1.jpg" style=" width:30% " >  </a>
 
  <a  href= "https://www.freecodecamp.org/certification/fcc893aedb5-a3f9-4920-b1de-2f0f7f8f9564/responsive-web-design" > 
-<img src="freecc-responsive-web-dev-cert.jpg" style=" width:30%;  height25px " >  </a>
+<img src="freecc-responsive-web-dev1-cert.jpg" style=" width:30%;  height25px " >  </a>
 
 <a href= "https://www.coursera.org/account/accomplishments/verify/GP6368T5WG3S" > 
 <img src="Coursera%20linux%20CLI%20basics%20certification.jpg"  style=" width:30% " > </a>
