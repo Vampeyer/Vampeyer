@@ -47,9 +47,6 @@
 <img src="enterprise-design-thinking-practitioner%20(1).png" style=" width:30% " >  </a>
 
 
-<a  href= "https://www.credly.com/earner/earned/share/6ca3c2e9-9072-4658-885c-0025cc4f1876" >
-<img src="enterprise-design-thinking-practitioner%20(1).png" style=" width:30% " >  </a>
-
 
 
 <a  href= "https://www.credly.com/earner/earned/badge/db4a28d1-6231-45e2-84f3-edef05d449d8" >
@@ -57,6 +54,13 @@
 
 
 
+<a  href= "https://www.credly.com/earner/earned/share/6ca3c2e9-9072-4658-885c-0025cc4f1876" >
+<img src="enterprise-design-thinking-practitioner%20(1).png" style=" width:30% " >  </a>
+
+
+
+https://github.com/Vampeyer/Vampeyer/blob/main/google-it-support-certificate.png
+https://www.credly.com/badges/3ae90b66-1603-401d-9204-8a22c6898473
 
 
 
