@@ -107,13 +107,13 @@
  <h5> Google I.T> Support Certificate </h5>
   <h5> - 10  Badges at Microsoft , with a power level +9000  </h5> 
 
-<a  href= "https://www.credly.com/earner/earned/badge/db4a28d1-6231-45e2-84f3-edef05d449d8" >
+<a  href= "https://www.credly.com/badges/db4a28d1-6231-45e2-84f3-edef05d449d8/public_url" >
 <img src="UofL%20CyberSecurity%20Workforce%20Badge.png" style=" width:30% " >  </a>
 
 
 
 
-<a  href= "https://www.credly.com/earner/earned/share/6ca3c2e9-9072-4658-885c-0025cc4f1876" >
+<a  href= "https://www.credly.com/badges/6ca3c2e9-9072-4658-885c-0025cc4f1876/public_url" >
 <img src="enterprise-design-thinking-practitioner%20(1).png" style=" width:30% " >  </a>
 
 
