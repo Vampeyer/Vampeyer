@@ -16,7 +16,7 @@
 <img src="Cybersecurity_Workforce_Program_Badge___Professional_Level_Badge20230830.jpg" style=" width:30% " >  </a>
 
 <a  href= "https://www.coursera.org/account/accomplishments/professional-cert/9R2LRG9PBGFT" >
-<img src="courseraGoogleItProCert.jpg" style=" width:30% " >  </a>
+<img src="courseraGoogleItProCert.jpg" style=" width:30%; " >  </a>
 
 
 
@@ -32,13 +32,13 @@
 <img src="https://github.com/Vampeyer/Vampeyer/blob/main/codeloucertwebdev1.jpg" style=" width:30% " >  </a>
 
  <a  href= "https://www.freecodecamp.org/certification/fcc893aedb5-a3f9-4920-b1de-2f0f7f8f9564/responsive-web-design" > 
-<img src="freecc-responsive-web-dev-cert.jpg" style=" width:30% " >  </a>
+<img src="freecc-responsive-web-dev-cert.jpg" style=" width:30%;  height25px " >  </a>
 
 <a href= "https://www.coursera.org/account/accomplishments/verify/GP6368T5WG3S" > 
 <img src="Coursera%20linux%20CLI%20basics%20certification.jpg"  style=" width:30% " > </a>
 
 <a  href= "https://catalog.louisville.edu/graduate/programs-study/graduate-certificate-six-sigma-black-belt/" >
-<img src="LSSCcert-FINAL.jpg" style=" width:30% " >  </a>
+<img src="LSSCcert-FINAL.jpg" style=" width:30% " >  </a>  
 
 
 
