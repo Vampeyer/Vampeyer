@@ -59,8 +59,15 @@
 
 
 
-https://github.com/Vampeyer/Vampeyer/blob/main/google-it-support-certificate.png
-https://www.credly.com/badges/3ae90b66-1603-401d-9204-8a22c6898473
+<a  href= "https://www.credly.com/badges/3ae90b66-1603-401d-9204-8a22c6898473" >
+<img src="google-it-support-certificate.png" style=" width:30% " >  </a>
+
+
+
+
+
+
+
 
 
 
