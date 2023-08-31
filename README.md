@@ -54,13 +54,16 @@
 
 
 
-<a  href= "https://www.credly.com/earner/earned/share/6ca3c2e9-9072-4658-885c-0025cc4f1876" >
-<img src="enterprise-design-thinking-practitioner%20(1).png" style=" width:30% " >  </a>
-
 
 
 <a  href= "https://www.credly.com/badges/3ae90b66-1603-401d-9204-8a22c6898473" >
 <img src="google-it-support-certificate.png" style=" width:30% " >  </a>
+
+
+
+
+<a  href= "https://learn.microsoft.com/en-us/users/jhayket-4179/" >
+<img src="cmu-disaster-recovery-backup%20(1).svg" style=" width:30% " >  </a>
 
 
 
