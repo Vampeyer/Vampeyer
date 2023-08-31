@@ -49,38 +49,41 @@
 
 
 
-
+<div style="display:flex; justify-content: space-around;  "> 
 
 <h1>Badges  </h1>
 
 
 
 <h5> UofL / NSA -  Cybersecurityworkforce Professional Certificate </h5>
-
+ <h5> IBM Enterprise Design Thinking Practitioner </h5>
+ <h5> Google I.T> Support Certificate </h5>
+  <h5> - 10  Badges at Microsoft , with a power level +9000  </h5> 
 
 <a  href= "https://www.credly.com/earner/earned/badge/db4a28d1-6231-45e2-84f3-edef05d449d8" >
 <img src="UofL%20CyberSecurity%20Workforce%20Badge.png" style=" width:30% " >  </a>
 
 
 
- <h5> IBM Enterprise Design Thinking Practitioner </h5>
+
 <a  href= "https://www.credly.com/earner/earned/share/6ca3c2e9-9072-4658-885c-0025cc4f1876" >
 <img src="enterprise-design-thinking-practitioner%20(1).png" style=" width:30% " >  </a>
 
 
-<h5> Google I.T> Support Certificate </h5>
+
 
 
 <a  href= "https://www.credly.com/badges/3ae90b66-1603-401d-9204-8a22c6898473" >
 <img src="google-it-support-certificate.png" style=" width:30% " >  </a>
 
 
- <h5> - 10  Badges at Microsoft , with a power level +9000  </h5> 
+
 
 <a  href= "https://learn.microsoft.com/en-us/users/jhayket-4179/" >
 <img src="cmu-disaster-recovery-backup%20(1).svg" style=" width:30% " >  </a>
 
-
+</section>
+</div>
 
 
 
