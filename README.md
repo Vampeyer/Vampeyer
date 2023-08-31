@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vampeyer</h1>
 
+<div> 
+<img src='https://i.pinimg.com/originals/8b/10/b4/8b10b43dfd4d2f5300394bfe3cd691e1.gif' > <img>
+</div>
 
+<div> 
+<img src='https://img.shields.io/badge/High%20End%20-Developer-cyan' > <img>
+</div>
 
 
 <h1> Certificates </h1> 
@@ -42,6 +48,7 @@
 
 
 
+<h1>Badges  </h1>
 
 <a  href= "https://www.credly.com/earner/earned/share/6ca3c2e9-9072-4658-885c-0025cc4f1876" >
 <img src="enterprise-design-thinking-practitioner%20(1).png" style=" width:30% " >  </a>
@@ -76,15 +83,6 @@
 
 
 
-
-
-<div> 
-<img src='https://i.pinimg.com/originals/8b/10/b4/8b10b43dfd4d2f5300394bfe3cd691e1.gif' > <img>
-</div>
-
-<div> 
-<img src='https://img.shields.io/badge/High%20End%20-Developer-cyan' > <img>
-</div>
 
 <h1>Technologies </h1>
 
