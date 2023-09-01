@@ -15,15 +15,15 @@
 <h1> Certificates </h1> 
 
 
-<a  href= "https://www.credly.com/earner/earned/badge/db4a28d1-6231-45e2-84f3-edef05d449d8" >
+<a  href= "https://www.credly.com/badges/db4a28d1-6231-45e2-84f3-edef05d449d8/public_url" >
 <img src="Cybersecurity_Workforce_Program_Badge___Professional_Level_Badge20230830.jpg" style=" width:30% " >  </a>
 
-<a  href= "https://www.coursera.org/account/accomplishments/professional-cert/9R2LRG9PBGFT" >
+<a  href= "https://www.credly.com/badges/3ae90b66-1603-401d-9204-8a22c6898473/public_url" >
 <img src="courseraGoogleItProCert.jpg" style=" width:30%; " >  </a>
 
 
 
-<a  href= "https://www.credly.com/earner/earned/share/6ca3c2e9-9072-4658-885c-0025cc4f1876" >
+<a  href= "https://www.credly.com/badges/6ca3c2e9-9072-4658-885c-0025cc4f1876/public_url" >
 <img src="Enterprise_Design_Thinking_Practitioner_Badge20230826-28-2g8xu1.jpg" style=" width:30% " >  </a>
 
 
