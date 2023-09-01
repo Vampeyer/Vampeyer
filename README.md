@@ -154,7 +154,7 @@
 
 
 
-[![Python - BMI Calculator](https://img.shields.io/static/v1?label=Python&message=BMI+Calculator&color=%2383B81A&style=for-the-badge&logo=Python&logoColor=%233776AB)](https://github.com/Vampeyer/PythonStart/tree/master/CyberSec%20Workforce%20Cert%20Python/PYTHON-BMI_Calculator-Summative)
+[![Python - BMI Calculator](https://img.shields.io/static/v1?label=Python&message=BMI+Calculator&color=%2383B81A&style=for-the-badge&logo=Python&logoColor=%233776AB)](https://github.com/Vampeyer/PythonStart/tree/master)
 
 
 
