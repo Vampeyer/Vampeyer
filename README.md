@@ -5,13 +5,15 @@
 
 <section> 
 
-<a href="https://pwawatch.000webhostapp.com/"><img src="https://img.shields.io/static/v1?label=cssclock%232+-+PWA+Website&message=PWA+DOWNLOADABLE+site+&color=2ea44f&style=for-the-badge&logo=Electron&logoColor=ffffff" alt="cssclock#2 - Website - PWA  DOWNLOAD  "></a>
 
-<a href="https://github.com/Vampeyer/react-todo-list-EXE/tree/master"><img src="https://img.shields.io/static/v1?label=CSSCLOCK%232+-+PWA+Repo&message=exe+DOWNLOAD++-+Windows&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="CSSCLOCK#2 - EXE Repo - exe   - Windows"></a>
+
+
+<a href="https://pwawatch.000webhostapp.com/"><img src="https://img.shields.io/static/v1?label=CSSCLOCK%232+&message=Website+-+PWA+Downloadable+&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="CSSCLOCK#2  - Website - PWA Downloadable "></a>
+
 
 <a href="https://drive.google.com/u/0/uc?id=1i7p_339J9Lv4p_3gPLdbfIVgMoryCArF&export=download"><img src="https://img.shields.io/static/v1?label=cssclock%232&message=+portable+exe+-+DOWNLOAD++LINK&color=2ea44f&style=for-the-badge&logo=Electron&logoColor=ffffff" alt="cssclock#2 -  portable exe - DOWNLOAD  LINK"></a>
 
-<a href="https://github.com/Vampeyer/cssclockbasic-WITHEXE"><img src="https://img.shields.io/static/v1?label=cssclock%232&message=+Electron-packager&color=2ea44f&style=for-the-badge&logo=Electron&logoColor=ffffff" alt="cssclock#2 -  Electron-packager  repo"></a>
+<a href="https://github.com/Vampeyer/cssclockbasic-WITHEXE"><img src="https://img.shields.io/static/v1?label=CSSCLOCK%232+&message=EXE+Repo&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="CSSCLOCK#2  - EXE Repo"></a>
 
 
 
