@@ -13,6 +13,9 @@
 
 <a href="https://drive.google.com/u/0/uc?id=1i7p_339J9Lv4p_3gPLdbfIVgMoryCArF&export=download"><img src="https://img.shields.io/static/v1?label=cssclock%232&message=+portable+exe+-+DOWNLOAD++LINK&color=2ea44f&style=for-the-badge&logo=Electron&logoColor=ffffff" alt="cssclock#2 -  portable exe - DOWNLOAD  LINK"></a>
 
+
+<a href="https://github.com/Vampeyer/cssclockbasic-PWA"><img src="https://img.shields.io/static/v1?label=CSSCLOCK%232+&message=PWA+repo&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="CSSCLOCK#2  - PWA repo"></a>
+
 <a href="https://github.com/Vampeyer/cssclockbasic-WITHEXE"><img src="https://img.shields.io/static/v1?label=CSSCLOCK%232+&message=EXE+Repo&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="CSSCLOCK#2  - EXE Repo"></a>
 
 
