@@ -2,6 +2,40 @@
 <h3 align="center">A passionate Fullstack developer from Kentucky</h3>
 <h6> Please allow the entire page to load to view entire contents </h6>
 
+
+<section> 
+
+<a href="https://pwawatch.000webhostapp.com/"><img src="https://img.shields.io/static/v1?label=cssclock%232+-+PWA+Website&message=PWA+DOWNLOADABLE+site+&color=2ea44f&style=for-the-badge&logo=Electron&logoColor=ffffff" alt="cssclock#2 - Website - PWA  DOWNLOAD  "></a>
+
+<a href="https://github.com/Vampeyer/react-todo-list-EXE/tree/master"><img src="https://img.shields.io/static/v1?label=CSSCLOCK%232+-+PWA+Repo&message=exe+DOWNLOAD++-+Windows&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="CSSCLOCK#2 - EXE Repo - exe   - Windows"></a>
+
+<a href="https://drive.google.com/u/0/uc?id=1i7p_339J9Lv4p_3gPLdbfIVgMoryCArF&export=download"><img src="https://img.shields.io/static/v1?label=cssclock%232&message=+portable+exe+-+DOWNLOAD++LINK&color=2ea44f&style=for-the-badge&logo=Electron&logoColor=ffffff" alt="cssclock#2 -  portable exe - DOWNLOAD  LINK"></a>
+
+<a href="https://github.com/Vampeyer/cssclockbasic-WITHEXE"><img src="https://img.shields.io/static/v1?label=cssclock%232&message=+Electron-packager&color=2ea44f&style=for-the-badge&logo=Electron&logoColor=ffffff" alt="cssclock#2 -  Electron-packager  repo"></a>
+
+
+
+
+ </section>
+
+
+
+<section>  
+
+
+<a href="https://github.com/Vampeyer/react-todo-list-PWA/tree/master"><img src="https://img.shields.io/static/v1?label=REACT+to-do-list&message=PWA+Repo&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT to-do-list - PWA Repo"></a>  
+
+<a href="https://listtodoreact.000webhostapp.com/"><img src="https://img.shields.io/static/v1?label=REACT+to-do-list&message=Web+link+-+++PWA&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT to-do-list - Web link -   PWA"></a>
+
+
+<a href="https://github.com/Vampeyer/react-todo-list-EXE/tree/master"><img src="https://img.shields.io/static/v1?label=REACT+to-do-list&message=exe+repo&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT to-do-list - exe repo"></a>
+
+
+<a href="https://github.com/Vampeyer/react-todo-list-EXE/tree/master"><img src="https://img.shields.io/static/v1?label=REACT+to-do-list&message=exe+DOWNLOAD++-+Windows&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT to-do-list - exe DOWNLOAD  - Windows"></a>
+
+</section>
+
+
 <div> 
 <img src='https://i.pinimg.com/originals/8b/10/b4/8b10b43dfd4d2f5300394bfe3cd691e1.gif' > <img>
 </div>
