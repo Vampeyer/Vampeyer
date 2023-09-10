@@ -30,14 +30,23 @@
 <a href="https://github.com/Vamhttps://listtodoreact.000webhostapp.com/"><img src="https://img.shields.io/static/v1?label=REACT-TO-DO-LIST&message=Website+-+PWA+Downloadable&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT-TO-DO-LIST - Website - PWA Downloadable"></a>
 
 
-<a href="https://github.com/Vampeyer/react-todo-list-PWA/tree/master"><img src="https://img.shields.io/static/v1?label=REACT+to-do-list&message=PWA+Repo&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT to-do-list - PWA Repo"></a>  
+<a href="https://github.com/Vampeyer/react-todo-list-EXE/tree/master"><img src="https://img.shields.io/static/v1?label=REACT+to-do-list&message=exe+DOWNLOAD++-+Windows&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT to-do-list - exe DOWNLOAD  - Windows"></a>
 
 
 
 <a href="https://github.com/Vampeyer/react-todo-list-EXE/tree/master"><img src="https://img.shields.io/static/v1?label=REACT+to-do-list&message=exe+repo&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT to-do-list - exe repo"></a>
 
 
-<a href="https://github.com/Vampeyer/react-todo-list-EXE/tree/master"><img src="https://img.shields.io/static/v1?label=REACT+to-do-list&message=exe+DOWNLOAD++-+Windows&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT to-do-list - exe DOWNLOAD  - Windows"></a>
+
+<a href="https://github.com/Vampeyer/react-todo-list-PWA/tree/master"><img src="https://img.shields.io/static/v1?label=REACT+to-do-list&message=PWA+Repo&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT to-do-list - PWA Repo"></a>  
+
+
+
+
+
+
+
+
 
 </section>
 
