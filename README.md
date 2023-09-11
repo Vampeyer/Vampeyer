@@ -27,7 +27,7 @@
 
 <section>  
 
-<a href="https://github.com/Vamhttps://listtodoreact.000webhostapp.com/"><img src="https://img.shields.io/static/v1?label=REACT-TO-DO-LIST&message=Website+-+PWA+Downloadable&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT-TO-DO-LIST - Website - PWA Downloadable"></a>
+<a href="listtodoreact.000webhostapp.com/"><img src="https://img.shields.io/static/v1?label=REACT-TO-DO-LIST&message=Website+-+PWA+Downloadable&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT-TO-DO-LIST - Website - PWA Downloadable"></a>
 
 
 <a href="https://github.com/Vampeyer/react-todo-list-EXE/tree/master"><img src="https://img.shields.io/static/v1?label=REACT+to-do-list&message=exe+DOWNLOAD++-+Windows&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT to-do-list - exe DOWNLOAD  - Windows"></a>
@@ -265,7 +265,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.vempeyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.vempeyer" height="30" width="40" /></a>
+<a href="https://dev.to/vampeyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.vempeyer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
