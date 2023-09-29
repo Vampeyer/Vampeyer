@@ -5,8 +5,8 @@
 
 <section> 
 
-<h3>  If you are bored while waiting for the page to load , feel free to watch a movie at my movie site ,  </h3>
-  <h5> - Search for a movie or a tv series , select , then find a working server to play in the watch tab </h5>
+  If you are bored while waiting for the page to load , feel free to watch a movie at my movie site ,  
+   - Search for a movie or a tv series , select , then find a working server to play in the watch tab 
 <h1>
 https://vampeyer.github.io/  </h1>
 
