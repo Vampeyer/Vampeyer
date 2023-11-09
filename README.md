@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vampeyer , How are you today ?   -   </h1>
-<h3 align="center">A passionate Fullstack developer from Kentucky</h3>
+<h3 align="center">Not - a Bot , Professional Fullstack developer from Kentucky</h3>
 <h3 align="center">Portfolio Site -  https://www.techsport.app/ </h3>
 <h3 align="center">Tech Support @ TechSport  - https://techsport.vampyre.42web.io/index.html </h3>
 
