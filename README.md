@@ -132,15 +132,15 @@ https://listtodoreact.000webhostapp.com
 
 - 🔭 I’m currently working on **Phoenix XP Portable OS**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Docker / XML / React / Phoenix / Elixer - Ai / Ml**
 
 - 👯 I’m looking to collaborate on **Environmental / Corporate ptojects**
 
-- 🤝 I’m looking for help with **Docker**
+- 🤝 I’m looking for help with **XML / XLST  - Phoenix/ Elixer / whatever **
 
 - 💬 Ask me about **REact , vue , vit , js , express , jupyter , sql , or anything else**
 
-- ⚡ Fun fact **I can do anything you need , I am very chad**
+- ⚡ Fun fact **I run my own tech support business and develop applications as well as I  do IT hardware and software support. **
 
 
 
