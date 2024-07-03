@@ -23,14 +23,6 @@ https://vampeyer.github.io/  </h2>
 <h1> Projects  </h1>
 
 
-<a href="https://pwawatch.000webhostapp.com/"><img src="https://img.shields.io/static/v1?label=CSSCLOCK%232+&message=Website+-+PWA+Downloadable+&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="CSSCLOCK#2  - Website - PWA Downloadable "></a>
-
-https://pwawatch.000webhostapp.com/
-
-<a href="https://drive.google.com/u/0/uc?id=1i7p_339J9Lv4p_3gPLdbfIVgMoryCArF&export=download"><img src="https://img.shields.io/static/v1?label=cssclock%232&message=+portable+exe+-+DOWNLOAD++LINK&color=2ea44f&style=for-the-badge&logo=Electron&logoColor=ffffff" alt="cssclock#2 -  portable exe - DOWNLOAD  LINK"></a>
-
-
-<a href="https://github.com/Vampeyer/cssclockbasic-PWA"><img src="https://img.shields.io/static/v1?label=CSSCLOCK%232+&message=PWA+repo&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="CSSCLOCK#2  - PWA repo"></a>
 
 <a href="https://github.com/Vampeyer/cssclockbasic-WITHEXE"><img src="https://img.shields.io/static/v1?label=CSSCLOCK%232+&message=EXE+Repo&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="CSSCLOCK#2  - EXE Repo"></a>
 
@@ -43,21 +35,7 @@ https://pwawatch.000webhostapp.com/
 
 <section>  
 
-<a href="https://listtodoreact.000webhostapp.com/"><img src="https://img.shields.io/static/v1?label=REACT-TO-DO-LIST&message=Website+-+PWA+Downloadable&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT-TO-DO-LIST - Website - PWA Downloadable"></a>
-
-https://listtodoreact.000webhostapp.com
-
-<a href="https://drive.google.com/file/d/1chKuFSWLWp2nLPxJxa_XxQvdmMqfWZbf/view?usp=sharing"><img src="https://img.shields.io/badge/REACT--TO--DO--LIST-exe_Download_Windows-2ea44f?style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT-TO-DO-LIST - exe Download Windows"></a>
-
-
-
-<a href="https://github.com/Vampeyer/react-todo-list-EXE/tree/master"><img src="https://img.shields.io/static/v1?label=REACT+to-do-list&message=exe+repo&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT to-do-list - exe repo"></a>
-
-
-
-<a href="https://github.com/Vampeyer/react-todo-list-PWA/tree/master"><img src="https://img.shields.io/static/v1?label=REACT+to-do-list&message=PWA+Repo&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT to-do-list - PWA Repo"></a>  
-
-
+<!-- <a href="https://listtodoreact.000webhostapp.com/"><img src="https://img.shields.io/static/v1?label=REACT-TO-DO-LIST&message=Website+-+PWA+Downloadable&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT-TO-DO-LIST - Website - PWA Downloadable"></a>  -->
 
 
 
