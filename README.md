@@ -131,17 +131,19 @@ https://listtodoreact.000webhostapp.com
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vampeyer" alt="vampeyer" /></a> </p>
 
-- 🔭 I’m currently working on **Phoenix XP Portable OS**
+- 🔭 I’m currently working on **Angular  / Cleaning repos up **
 
-- 🌱 I’m currently learning **Docker / XML / React / Phoenix / Elixer - Ai / Ml**
+- 🌱 I’m currently learning **Docker / Ai / Ml  -  / Phoenix / Elixer -****
 
 - 👯 I’m looking to collaborate on **Environmental / Corporate ptojects**
 
-- 🤝 I’m looking for help with **XML / XLST  - Phoenix/ Elixer / whatever **
+- 🤝 I’m looking for help with ** Three.js resource  / Job and learning blog form  , for developers in need. **
 
-- 💬 Ask me about **REact , vue , vit , js , express , jupyter , sql , or anything else**
+- 💬 Ask me about **HTML , CSS , JS  , Python , Java , PWA's, Executable files,scripts  ,or  your
+-        , ( likely ) horribly insecure operating system and computer. **
 
-- ⚡ Fun fact **I run my own tech support business and develop applications as well as I  do IT hardware and software support. **
+- ⚡ Fun fact **I run my own tech support business and develop applications as well as I  do IT hardware and software support.   
+                   Im not greedy , I like a challenge , contact and lets talk.       **
 
 
 
