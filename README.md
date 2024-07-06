@@ -109,7 +109,7 @@ https://vampeyer.github.io/  </h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vampeyer" alt="vampeyer" /></a> </p>
 
-- 🔭 I’m currently working on **Angular  / Cleaning repos up **
+- 🔭 I’m currently working on **  Building apps with Ionic and Capacitor -    then -   Angular  / Cleaning repos up **
 
 - 🌱 I’m currently learning **Docker / Ai / Ml  -  / Phoenix / Elixer -****
 
