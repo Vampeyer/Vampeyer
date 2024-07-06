@@ -37,14 +37,7 @@ https://vampeyer.github.io/  </h2>
 
 <!-- <a href="https://listtodoreact.000webhostapp.com/"><img src="https://img.shields.io/static/v1?label=REACT-TO-DO-LIST&message=Website+-+PWA+Downloadable&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="REACT-TO-DO-LIST - Website - PWA Downloadable"></a>  -->
 
-
-
-
-
-
-
 </section>
-
 
 <div> 
 <img src='https://i.pinimg.com/originals/8b/10/b4/8b10b43dfd4d2f5300394bfe3cd691e1.gif' > <img>
@@ -87,23 +80,12 @@ https://vampeyer.github.io/  </h2>
 <a  href= "https://catalog.louisville.edu/graduate/programs-study/graduate-certificate-six-sigma-black-belt/" >
 <img src="LSSCcert-FINAL.jpg" style=" width:30% " >  </a>  
 
-
-
-
 <a  href= "https://beinternetawesome.withgoogle.com/en_us/interland" >
 <img src="Google_Interland_Jacob%20R%20Thompson_Certificate_of_Awesomeness.jpg" style=" width:30% " >  </a>
 
-
-
-
 <div style="display:flex; justify-content: space-around;  "> 
 
-
 <!-- BADGES START -->
-
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vampeyer&label=Profile%20views&color=0e75b6&style=flat" alt="vampeyer" /> </p>
 
@@ -122,8 +104,6 @@ https://vampeyer.github.io/  </h2>
 
 - ⚡ Fun fact **I run my own tech support business and develop applications as well as I  do IT hardware and software support.   
                    Im not greedy , I like a challenge , contact and lets talk.       **
-
-
 
 
 
@@ -420,10 +400,7 @@ https://vampeyer.github.io/  </h2>
 
 
 
-
-
-
-
+ 
                         
 
   <div class="thinBorder"> 
@@ -438,23 +415,6 @@ https://vampeyer.github.io/  </h2>
                               </a>
                               </div>
 
-
-
-
-
-
-   
-
-
-
- 
-
-
-
 </div>
 </body>
 </html> -->
-<!-- BADGES END -->
-
-
- 
