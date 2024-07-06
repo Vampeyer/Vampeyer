@@ -283,7 +283,7 @@ https://vampeyer.github.io/  </h2>
 
 
 
-
+<!--
 <div>
   <h4>  Achievements  </h4>
  </div>
@@ -453,7 +453,7 @@ https://vampeyer.github.io/  </h2>
 
 </div>
 </body>
-</html> 
+</html> -->
 <!-- BADGES END -->
 
 
