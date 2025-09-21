@@ -97,8 +97,7 @@ https://vampeyer.github.io/  </h2>
 
 - 🤝 I’m looking for help with ** Three.js resource  / Job and learning blog form  , for developers in need. **
 
-- 💬 Ask me about **HTML , CSS , JS  , Python , Java , PWA's, Executable files,scripts  ,or  your
--        , ( likely ) horribly insecure operating system and computer. **
+- 💬 Ask me about **Ai ,  HTML , CSS , JS  , Python , Java , PWA's, Executable files, or scripts 
 
 - ⚡ Fun fact **I run my own tech support business and develop applications as well as I  do IT hardware and software support.   
                    Im not greedy , I like a challenge , contact and lets talk.       **
