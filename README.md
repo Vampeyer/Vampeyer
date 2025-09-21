@@ -24,8 +24,6 @@ https://vampeyer.github.io/  </h2>
 
 
 
-<a href="https://github.com/Vampeyer/cssclockbasic-WITHEXE"><img src="https://img.shields.io/static/v1?label=CSSCLOCK%232+&message=EXE+Repo&color=2ea44f&style=for-the-badge&logo=ReactOS&logoColor=ffffff" alt="CSSCLOCK#2  - EXE Repo"></a>
-
 
 
 
