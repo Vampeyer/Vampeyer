@@ -81,31 +81,18 @@ https://vampeyer.github.io/  </h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vampeyer" alt="vampeyer" /></a> </p>
 
-- 🔭 I’m currently working on **  Building apps with Ionic and Capacitor -    then -   Angular  / Cleaning repos up **
+- 🔭 I’m currently working on ** Node  and JS modules , Ai ML , and fuillstack development **
 
-- 🌱 I’m currently learning **Docker / Ai / Ml  -  / Phoenix / Elixer -****
+- 🌱 I’m currently learning * React , Node , Ai / ML , and a little python .  *
 
-- 👯 I’m looking to collaborate on **Environmental / Corporate ptojects**
+- 👯 I’m looking to collaborate on **Environmental / Corporate projects**
 
-- 🤝 I’m looking for help with ** Three.js resource  / Job and learning blog form  , for developers in need. **
+- 🤝 I’m looking for help with ** Integrating JS tools into modules and NPM packages **
 
 - 💬 Ask me about **Ai ,  HTML , CSS , JS  , Python , Java , PWA's, Executable files, or scripts 
 
 - ⚡ Fun fact **I run my own tech support business and develop applications as well as I  do IT hardware and software support.   
                    Im not greedy , I like a challenge , contact and lets talk.       **
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
