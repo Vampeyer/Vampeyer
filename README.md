@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vampeyer , How are you today ?   -   </h1> 
-<h3 align="center">Not - a Bot , Professional Fullstack developer from Kentucky</h3>
-<h3 align="center"> - Always thourougly test and review your findings before publishing    </h3>
-<h3 align="center">Portfolio Site -  https://www.techsport.app/profile </h3>
-<h3 align="center">Tech Support @ TechSport  - https://techsport.vampyre.42web.io/index.html </h3>
-
-<h6> * Please allow the entire page to load to view entire contents. *  </h6>
-<h6> * I have more certifications than github servers can handle. -  *  </h6>
-
-
+<h3 align="center"> Professional Fullstack developer from Kentucky</h3>
 <section> 
 
   If you are bored while waiting for the page to load , feel free to watch a movie at my movie site ,  
